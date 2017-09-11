@@ -1,3 +1,7 @@
+"""
+demand matrices and volumes for a series of scenarios 
+"""
+
 D_AVPT550 = 186.68 
 M_AVPT550 = [ 
 ( 0.105274, 51.429131, 0.089119, 51.373289, 0.00046425, 0.00046425),
