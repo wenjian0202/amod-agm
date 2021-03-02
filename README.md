@@ -1,7 +1,7 @@
 # `amod-abm`
 
 
-**:warning: The `amod-abm` repo is no longer supported. We have transitioned instead to the new version [`mod-abm-2.0`](https://github.com/wenjian0202/mod-abm-2.0). :warning:**
+**:warning: The `amod-abm` is no longer supported. We have transitioned instead to the new version [`mod-abm-2.0`](https://github.com/wenjian0202/mod-abm-2.0). :warning:**
 
 
 <img src="https://github.com/wenjian0202/amod-abm/blob/master/media/demo.gif" width="400">
